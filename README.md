@@ -17,8 +17,9 @@
 #### good 3
 ##### good 4
 ###### good 5
-## 谷歌链接
-[谷歌](http://www.google.com)
+## 链接
+[谷歌](http://www.google.com)<br>
+[百度](http://www.baidu.com?_blank)
 ## dog图片
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44sXFQPtt5NfCKeaBQY6wojcFlMvekqofhvjAYzfALSAzhjBcJg)
 
